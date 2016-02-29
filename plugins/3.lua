@@ -7,7 +7,7 @@ returns {
 useage = "to spam somewhere"
 description = "my practice"
 patterns = {
-"^[!/](spam) (.*)$",
+"^[!/](spam) (.*)$"
 },
 run = run 
 moderated = true
